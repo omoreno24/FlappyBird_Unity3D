@@ -1,2 +1,2 @@
 # FlappyBird_Unity3D
-A flappy bird clone that I made in a couple of hours.
+A flappy bird clone that I've made just for fun. This was a quick code session, so it would be messy.
